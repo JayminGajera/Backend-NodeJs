@@ -1,0 +1,4 @@
+hello i am in txt file
+
+-explore inbuild node module
+-readline for take input

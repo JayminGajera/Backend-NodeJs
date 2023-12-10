@@ -1,0 +1,23 @@
+PUT : all json data you want to update
+PATCH : only data you want to update pass that data
+
+security layer exp.ssl etc.
+http response status code - mdn web docs
+ 
+REST is specification jisme rule hai
+api which fulfil all rules of api is called RESTFUL API
+
+types of middlewares
+    1.Application level
+    2.Router level
+    3.Error Handling-Four params
+    4.Third Party 
+
+
+templating engines?
+-if we need to add dynamic data on the static HTMl with the help of Express,we use templating engine.
+-less transfer data between client and server.
+-some popular template engine 
+    1.hbs (npm i hbs)
+    2.muchtach
+-views : the directory where the template files are located. directory name should be default views
